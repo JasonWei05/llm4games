@@ -1,0 +1,1 @@
+"""LLM4Games: Training LLMs to play games with RL and SFT."""
