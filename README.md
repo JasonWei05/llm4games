@@ -1,6 +1,6 @@
 # LLM4Games: Training LLMs to Play Games with RL and SFT
 
-This repository contains a clean implementation for training Large Language Models (LLMs) to play games using Supervised Fine-Tuning (SFT) and Group Relative Policy Optimization (GRPO).
+This repository contains a simple implementation for training Large Language Models (LLMs) to play games using Supervised Fine-Tuning (SFT) and Group Relative Policy Optimization (GRPO) using Unsloth's 4-bit quantized LoRA and TRL.
 
 ## Features
 
@@ -15,7 +15,7 @@ This repository contains a clean implementation for training Large Language Mode
 - **Reward Design**:
   - Hybrid rewards combining game-theory optimal play and Monte Carlo simulations
   - Format rewards to ensure proper response structure
-  - Configurable weights for different reward components
+  - Configurable weights to balance optimal and non-optimal play
 
 ## Project Structure
 
