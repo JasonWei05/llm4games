@@ -6,7 +6,7 @@ This repository contains a clean implementation for training Large Language Mode
 
 - **Games Supported**:
   - Tic-Tac-Toe with minimax and Monte Carlo evaluation
-  - Connect Four with C++ solver integration and Monte Carlo evaluation. The code for this is from (\href{https://github.com/PascalPons/connect4})
+  - Connect Four with C++ solver integration and Monte Carlo evaluation. The code for this is from (https://github.com/PascalPons/connect4})
 
 - **Training Methods**:
   - Supervised Fine-Tuning (SFT) on expert game data
